@@ -1,0 +1,38 @@
+
+*
+
+{
+ margin:0;
+ padding:0;
+
+}
+header{
+background-color: blue;
+height:35vh;
+background-size:contain;
+background-position:center;
+}
+.nav-menu{
+    float: right;
+    list-style:none;
+    margin-top: 30px;
+}
+.nav-menu li{
+    display: inline;
+}
+.nav-menu li a{
+    color: turquoise;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: Verdana,  sans-serif;
+    font-size: 20px;
+} 
+.homebtn a{
+border: 1px solid grey;
+background-color: white;
+}
+.nav-menu li a:hover{
+border:1px solid grey;
+background-color: white;
+
+}
